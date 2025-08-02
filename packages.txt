@@ -1,0 +1,11 @@
+scikit-lego
+embetter
+wigglystuff
+mktestdocs
+drawdata
+molabel
+mohtml
+mopaint
+mopad
+whatlies
+human-learn
